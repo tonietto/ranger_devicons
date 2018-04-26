@@ -145,20 +145,6 @@ dir_node_exact_matches = {
     'Documents'                        : '',
     'Downloads'                        : '',
     'Pictures'                         : '',
-
-    # Projects
-    'contributing-guide'               : '📕',
-    'crawler'                          : '👾',
-    'forwarder'                        : '⏩',
-    'graphql'                          : '📈',
-    'hub'                              : '🕹️ ',
-    'hub-front'                        : '🕹️ ',
-    'montacasa-front'                  : '💄',
-    'adorodecorar'                     : '✏️',
-    'blog'                             : '✏️',
-    'luvgourmet'                       : '✏️',
-    'mc-dev'                           : '💾',
-    'secrets'                          : '💾',
 }
 # }}}
 # File matches {{{
