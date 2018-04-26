@@ -21,8 +21,8 @@ file_node_extensions = {
     'njk'          : '',
     'slim'         : '',
     'ejs'          : '',
-    'css'          : '',
-    'less'         : '',
+    'css'          : '',
+    'less'         : '',
     'md'           : '',
     'markdown'     : '',
     'json'         : '',
@@ -34,7 +34,7 @@ file_node_extensions = {
     'pyc'          : '',
     'pyo'          : '',
     'pyd'          : '',
-    'coffee'       : '',
+    'coffee'       : '',
     'mustache'     : '',
     'hbs'          : '',
     'conf'         : '',
@@ -99,7 +99,7 @@ file_node_extensions = {
     'jl'           : '',
     'rc'           : '',
     'xml'          : '',
-    'log'          : '',
+    'log'          : '',
     'avi'          : '',
     'mov'          : '',
     'mpeg'         : '',
@@ -134,6 +134,8 @@ file_node_extensions = {
     'zip'          : '',
     'lock'         : '',
     'orig'         : '',
+    'temp'         : '',
+    'tmp'          : '',
 }
 # }}}
 # Directories matches {{{
@@ -209,9 +211,6 @@ file_node_exact_matches = {
     '.vimrc'                           : '',
     '.viminfo'                         : '',
     '.viminfo'                         : '',
-    '.viminfo.tmp'                     : '',
-    '.viminfy.tmp'                     : '',
-    '.viminfz.tmp'                     : '',
 }
 # }}}
 
