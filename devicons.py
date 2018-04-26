@@ -26,6 +26,7 @@ file_node_extensions = {
     'md'           : '',
     'markdown'     : '',
     'json'         : '',
+    'graphql'      : '',
     'js'           : '',
     'jsx'          : '',
     'rb'           : '',
