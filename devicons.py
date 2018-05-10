@@ -14,6 +14,7 @@ file_node_extensions = {
     'eot'          : '',
     'svg'          : '',
     'woff'         : '',
+    'ttf'          : '',
     'styl'         : '',
     'scss'         : '',
     'htm'          : '',
