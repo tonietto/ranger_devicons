@@ -203,6 +203,7 @@ file_node_exact_matches = {
     'ini'                              : '',
     '.jack-settings'                   : '',
     'jsdoc.json'                       : '',
+    'Makefile'                         : '',
     'manifest.json'                    : '',
     'mimeapps.list'                    : '',
     '.mime.types'                      : '',
