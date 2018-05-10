@@ -205,6 +205,7 @@ file_node_exact_matches = {
     'manifest.json'                    : '',
     'mimeapps.list'                    : '',
     '.mime.types'                      : '',
+    'monitrc'                          : '',
     'nodemon.json'                     : '',
     '.npmignore'                       : '',
     '.nvidia-settings-rc'              : '',
