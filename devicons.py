@@ -24,6 +24,7 @@ file_node_extensions = {
     'ejs'          : '',
     'css'          : '',
     'less'         : '',
+    'ledger'       : '',
     'md'           : '',
     'markdown'     : '',
     'json'         : '',
