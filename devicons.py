@@ -200,6 +200,7 @@ file_node_exact_matches = {
     '.gitignore'                       : '',
     '.gitkeep'                         : '',
     '.gitmodules'                      : '',
+    '.graphqlconfig'                   : '',
     '.htaccess'                        : '',
     'ini'                              : '',
     '.jack-settings'                   : '',
