@@ -82,6 +82,8 @@ file_node_extensions = {
     'pl'           : '',
     'pm'           : '',
     't'            : '',
+    't3m'          : '',
+    't3'           : '',
     'rss'          : '',
     'f#'           : '',
     'fsscript'     : '',
