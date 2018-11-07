@@ -146,12 +146,16 @@ file_node_extensions = {
 # Directories matches {{{
 dir_node_exact_matches = {
 # English
-    '.git'                             : '',
-    'node_modules'                     : '',
     'code'                             : '',
     'Desktop'                          : '',
     'Documents'                        : '',
+    'dotfiles'                         : '',
     'Downloads'                        : '',
+    '.git'                             : '',
+    'ledger'                           : '',
+    'Music'                            : '',
+    'node_modules'                     : '',
+    'notes'                            : '',
     'Pictures'                         : '',
 }
 # }}}
