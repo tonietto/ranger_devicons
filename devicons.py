@@ -149,7 +149,7 @@ dir_node_exact_matches = {
     'code'                             : '',
     'Desktop'                          : '',
     'Documents'                        : '',
-    'dotfiles'                         : '',
+    'dotfiles'                         : '',
     'Downloads'                        : '',
     '.git'                             : '',
     'ledger'                           : '',
