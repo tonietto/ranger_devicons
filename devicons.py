@@ -40,6 +40,7 @@ file_node_extensions = {
     "mustache": "",
     "hbs": "",
     "conf": "",
+    "in": "",
     "ini": "",
     "yml": "",
     "bat": "",
