@@ -139,6 +139,7 @@ file_node_extensions = {
     "zip": "",
     "lock": "",
     "orig": "",
+    "bak": "",
     "temp": "",
     "tmp": "",
 }
@@ -157,6 +158,9 @@ dir_node_exact_matches = {
     "node_modules": "",
     "notes": "",
     "Pictures": "",
+    "__snapshots__": "",
+    ".storybook": "",
+    "build": "",
 }
 # }}}
 # File matches {{{
@@ -220,6 +224,8 @@ file_node_exact_matches = {
     ".xinputrc": "",
     ".zshrc": "",
     "Dockerfile": "",
+    "Dockerfile.dev": "",
+    "Dockerfile.production": "",
     "Makefile": "",
     "Rakefile": "",
     "config": "",
