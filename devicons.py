@@ -235,6 +235,8 @@ file_node_exact_matches = {
     ".viminfo": "",
     ".viminfo": "",
     "package.json": "",
+    ".eslintrc": "",
+    ".prettierrc": "",
 }
 # }}}
 
