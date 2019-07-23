@@ -159,12 +159,12 @@ dir_node_exact_matches = {
     "notes": "",
     "Pictures": "",
     "__snapshots__": "",
-    ".storybook": "",
-    "build": "",
-    ".idea": "",
-    ".vscode": "",
     ".circleci": "",
     ".github": "",
+    ".idea": "",
+    ".storybook": "",
+    ".vscode": "",
+    "build": "",
 }
 # }}}
 # File matches {{{
@@ -224,6 +224,7 @@ file_node_exact_matches = {
     ".profile": "",
     ".recently-used": "",
     ".selected_editor": "",
+    ".stylelintrc": "",
     ".tern-project": "",
     ".xinputrc": "",
     ".zshrc": "",
