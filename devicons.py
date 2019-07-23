@@ -161,6 +161,10 @@ dir_node_exact_matches = {
     "__snapshots__": "",
     ".storybook": "",
     "build": "",
+    ".idea": "",
+    ".vscode": "",
+    ".circleci": "",
+    ".github": "",
 }
 # }}}
 # File matches {{{
