@@ -99,6 +99,7 @@ file_node_extensions = {
     "hrl": "",
     "vim": "",
     "vimrc": "",
+    "ideavimrc": "",
     "swp": "",
     "ai": "",
     "psd": "",
